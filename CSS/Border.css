@@ -1,0 +1,25 @@
+    body,table{
+        font-family:verdana,arial,sans-serif;
+        font-size:12px;
+        border-collapse:collapse;
+    }
+
+    td,th{
+        padding:4px 4px;
+        margin:0px;
+        border:1px solid #BBB;
+        white-space:nowrap;
+    }
+
+    .content{
+        height:15px;
+        width:100px;
+        overflow:hidden;
+        text-overflow:ellipsis
+    }
+
+    .content:hover{
+        height:auto;
+        width:auto;
+    }
+	

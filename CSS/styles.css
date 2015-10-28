@@ -1,0 +1,36 @@
+p {
+  font-family: sans-serif;
+  color: #00FF00;
+}
+#awesomeText { font-family: 'Times New Roman', Georgia, Serif;}
+.soft { color: #B1B1B1; }
+.center { text-align: center;}
+.container { margin: 0 auto;}
+.introtext {font-size:20px}
+ body,table{
+        font-family:verdana,arial,sans-serif;
+        font-size:12px;
+        border-collapse:collapse;
+    }
+
+    td,th{
+        padding:4px 4px;
+        margin:0px;
+        border:1px solid #BBB;
+        white-space:nowrap;
+    }
+
+    .content{
+        height:15px;
+        width:100px;
+        overflow:hidden;
+        text-overflow:ellipsis
+    }
+
+    .content:hover{
+        height:auto;
+        width:auto;
+    }
+	body {
+    background-color: #000000;
+}
